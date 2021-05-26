@@ -1,0 +1,22 @@
+export default function(){
+    return[
+        {
+            id:1,
+            name:'Anton',
+            surname:'Shpakovych',
+            years:'20',
+        },
+        {
+            id:2,
+            name:'Maks',
+            surname:'Skcripnuk',
+            years:20,
+        },
+        {
+            id:3,
+            name:'Stas',
+            surname:'Makarshuck',
+            years:20,
+        }
+    ]
+}
